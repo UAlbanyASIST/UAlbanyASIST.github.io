@@ -73,6 +73,16 @@ dfn {
 	position: relative;
 	top:220px;
 	right: -450px;
+
+
+	}
+	
+#laptop {
+	float: right;
+	width: 400px;
+	position: relative;
+	top:720px;
+	right: -795px;
 }
 h1 {
   margin: .67em 0;
@@ -1286,6 +1296,13 @@ h1,
 h2,
 .h2 {
   font-size: 30px;
+  text-align: center;
+}
+
+#h2except {
+	width: 33%;
+	text-align: center;
+	background-color: yellow;
 }
 h3,
 .h3 {
