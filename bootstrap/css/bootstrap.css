@@ -59,9 +59,26 @@ strong {
 dfn {
   font-style: italic;
 }
+
+#skyline {
+	float: right;
+	width: 400px;
+	position: relative;
+	top:25px;	
+}
+
+#statue {
+	float: right;
+	width: 400px;
+	position: relative;
+	top:220px;
+	right: -450px;
+}
 h1 {
   margin: .67em 0;
   font-size: 2em;
+  background-color: yellow;
+  text-align: center;
 }
 mark {
   color: #000;
@@ -1086,7 +1103,7 @@ body {
   font-size: 14px;
   line-height: 1.42857143;
   color: #333;
-  background-color: #fff;
+  background-color: purple;
 }
 input,
 button,
@@ -1097,12 +1114,12 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #337ab7;
+  color: yellow;
   text-decoration: none;
 }
 a:hover,
 a:focus {
-  color: #23527c;
+  color: orange;
   text-decoration: underline;
 }
 a:focus {
