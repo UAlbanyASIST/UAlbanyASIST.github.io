@@ -47,7 +47,7 @@ a {
 }
 a:active,
 a:hover {
-  outline: 0;
+  outline: 1;
 }
 abbr[title] {
   border-bottom: 1px dotted;
@@ -63,16 +63,17 @@ dfn {
 #skyline {
 	float: right;
 	width: 400px;
-	position: relative;
-	top:25px;	
+	position: absolute;
+	top:75px;
+    right: -2px;
 }
 
 #statue {
 	float: right;
 	width: 400px;
-	position: relative;
-	top:220px;
-	right: -450px;
+	position: absolute;
+	top:280px;
+	right: -2px;
 
 
 	}
@@ -80,9 +81,9 @@ dfn {
 #laptop {
 	float: right;
 	width: 400px;
-	position: relative;
-	top:720px;
-	right: -795px;
+	position: absolute;
+	top:800px;
+	right: -2px;
 }
 h1 {
   margin: .67em 0;
@@ -1124,7 +1125,7 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: yellow;
+  color: purple;
   text-decoration: none;
 }
 a:hover,
@@ -1296,14 +1297,40 @@ h1,
 h2,
 .h2 {
   font-size: 30px;
-  text-align: center;
+
 }
 
 #h2except {
-	width: 33%;
+	
+    width: 25%;
+    height: 100%;
 	text-align: center;
 	background-color: yellow;
+    
 }
+
+#h2except2 {
+	
+    width: 33%;
+	text-align: center;
+	background-color: yellow;
+    position: absolute;
+    top: 75px;
+    right: 600px;
+    
+}
+
+#divexcept2 {
+	
+    width: 33%;
+	text-align: center;
+	background-color: yellow;
+    position: absolute;
+    top: 75px;
+    right: 400px;
+    
+}
+
 h3,
 .h3 {
   font-size: 24px;
