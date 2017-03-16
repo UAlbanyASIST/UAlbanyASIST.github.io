@@ -1115,6 +1115,7 @@ body {
   line-height: 1.42857143;
   color: #333;
   background-color: purple;
+  zoom: 50%;
 }
 input,
 button,
@@ -1314,7 +1315,7 @@ h2,
     width: 33%;
 	text-align: center;
 	background-color: yellow;
-    position: absolute;
+    
     top: 175px;
     right: 600px;
     
@@ -1325,7 +1326,7 @@ h2,
     width: 33%;
 	text-align: center;
 	background-color: yellow;
-    position: relative;
+    
     top: 375px;
     right: 600px;
 }   
@@ -1333,9 +1334,10 @@ h2,
 #divexcept {
 	
     width: 33%;
+    height: 500px;
 	text-align: center;
 	background-color: yellow;
-    position: absolute;
+    
     top: 375px;
     right: 600px;
     
@@ -1344,9 +1346,9 @@ h2,
 #divexcept2 {
 	
     width: 33%;
+    height: 500px;
 	text-align: center;
 	background-color: yellow;
-    position: absolute;
     top: 275px;
     right: 400px;
     
