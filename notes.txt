@@ -10,3 +10,5 @@ need images for OSF festival
 
 figure out whats going on with mobile side of website
 ------ device width was reacting to original size of zoomed width not adjusted width had to change device width till everything was perfect
+
+figure out why text is not staying inside desired text boxes
