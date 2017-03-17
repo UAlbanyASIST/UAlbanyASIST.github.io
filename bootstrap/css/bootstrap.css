@@ -5927,6 +5927,13 @@ button.list-group-item-danger.active:focus {
   padding: 24px;
   border-radius: 6px;
 }
+
+#homepage_well {
+     
+    background-repeat: no-repeat; 
+    background-size:4000px 1000px; 
+    height: 1000px;
+
 .well-sm {
   padding: 9px;
   border-radius: 3px;
