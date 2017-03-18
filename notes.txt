@@ -12,3 +12,10 @@ figure out whats going on with mobile side of website
 ------ device width was reacting to original size of zoomed width not adjusted width had to change device width till everything was perfect
 
 figure out why text is not staying inside desired text boxes
+----- bootstrap.min.css was the problem
+----- did not specify width of the greeting text box in index.html
+
+learn how to work with bootstrap.min.css
+
+use orbitron font with tron based websites
+use Faster One for cool fonts

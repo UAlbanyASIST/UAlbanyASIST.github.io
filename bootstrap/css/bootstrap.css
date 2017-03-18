@@ -75,7 +75,7 @@ dfn {
 	position: absolute;
 	top:480px;
 	right: -2px;
-
+    z-index: 1;
 
 	}
 	
@@ -85,6 +85,7 @@ dfn {
 	position: absolute;
 	top:1000px;
 	right: -2px;
+    z-index: 1;
 }
 h1 {
   margin: .67em 0;
@@ -4262,6 +4263,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   min-height: 50px;
   margin-bottom: 20px;
   border: 1px solid transparent;
+}
+
 }
 @media (min-width: 768px) {
   .navbar {
