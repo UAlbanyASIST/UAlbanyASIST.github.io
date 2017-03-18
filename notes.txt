@@ -19,3 +19,12 @@ learn how to work with bootstrap.min.css
 
 use orbitron font with tron based websites
 use Faster One for cool fonts
+
+put in extra attributes for wells
+well well-lg
+to 
+container +well attributes
+          +homepage well attributes
+          
+so proper zoom is enabled 
+do also on the link page
