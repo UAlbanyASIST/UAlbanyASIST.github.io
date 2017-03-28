@@ -1,1 +1,2 @@
 got all pictues from wikimedia commons
+got personal_website.png from suredra's website
