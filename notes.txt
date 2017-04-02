@@ -22,9 +22,12 @@ use Faster One for cool fonts
 
 put in extra attributes for wells
 well well-lg
-to 
+to
 container +well attributes
           +homepage well attributes
           
-so proper zoom is enabled 
+so proper zoom is enabled
 do also on the link page
+
+cant use container and well in same class, mobile side is trying to get used to it
+, just change the size attributes of anything on the page, when you use container wells
