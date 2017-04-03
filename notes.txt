@@ -31,3 +31,29 @@ do also on the link page
 
 cant use container and well in same class, mobile side is trying to get used to it
 , just change the size attributes of anything on the page, when you use container wells
+
+make sure to use remote jquery and 3.3.6 bootstrap js when using carousels
+
+
+venue_image
+By <a href="//commons.wikimedia.org/w/index.php?title=User:%D0%98%D1%80%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B8%D0%B4%D0%BE%D1%80%D0%B5%D0%BD%D0%BA%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="User:Ирина Сидоренко (page does not exist)">Ирина Сидоренко</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="http://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=18537252">Link</a>
+
+BinaryLibrary.png
+By BinaryData50.png: Hapesoft Library_of_Congress.jpg: User:Raul654 derivative work: Holomanga (BinaryData50.png Library_of_Congress.jpg) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons
+
+
+Robert burns statue
+By Jean Gagnon - J'ai pris ce cliché aujourd'hui, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=6250566
+
+benq_laptop
+By No machine-readable author provided. Husky assumed (based on copyright claims). [GFDL (http://www.gnu.org/copyleft/fdl.html), CC-BY-SA-3.0 (http://creativecommons.org/licenses/by-sa/3.0/) or CC BY-SA 2.5-2.0-1.0 (http://creativecommons.org/licenses/by-sa/2.5-2.0-1.0)], via Wikimedia Commons
+
+Skyline of albany
+By Britney357 (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons
+
+
+
+
+find out why header image is not working too well with the transitition, why you mouse cant see it
+
+
