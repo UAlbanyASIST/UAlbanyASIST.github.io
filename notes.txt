@@ -41,4 +41,8 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:%D0%98%D1%80%D0%B8%D0
 BinaryLibrary.png
 By BinaryData50.png: Hapesoft Library_of_Congress.jpg: User:Raul654 derivative work: Holomanga (BinaryData50.png Library_of_Congress.jpg) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons
 
+Desktop_computer_clipart_-_Yellow_theme
+By AJ from openclipart.org - https://openclipart.org/detail/17924/computer, CC0, https://commons.wikimedia.org/w/index.php?curid=319128
+
+
 only used with local bootstrap sources
