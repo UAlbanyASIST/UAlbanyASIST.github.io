@@ -1331,7 +1331,7 @@ h2,
     
     top: 375px;
     right: 600px;
-}   
+}
 
 #divexcept {
 	
@@ -1358,7 +1358,7 @@ h2,
 
 #a_except {
  color: black;
- text-decoration: none;   
+ text-decoration: none;
 }
 
 #img_except {
@@ -5934,8 +5934,8 @@ button.list-group-item-danger.active:focus {
 
 #homepage_well {
      
-    background-repeat: no-repeat; 
-    background-size:4000px 1000px; 
+    background-repeat: no-repeat;
+    background-size:4000px 1000px;
     height: 800px;
 
 }
