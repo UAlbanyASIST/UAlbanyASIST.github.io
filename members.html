@@ -4,7 +4,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=.31">
 <title> ASIS&T at Ualbany  </title>
 <link rel = "stylesheet" type="text/css" href="./bootstrap/css/bootstrap.css" />
-
+<style type = "text/css">
+          #orange
+        {
+          
+        }
+</style>
 
 </head>
 <body>
@@ -18,10 +23,10 @@
 
 <div class="well well-sm"  style ="background-color:yellow; text-align:center; fill-opacity:.1" >
 <h2>
-    <button class="btn btn-default"  style = "font-size: 30px; background-color: yellow;"><a href = "./index.html"> Home <br /></a></button>
-    <button class="btn btn-default" style = "font-size: 30px;"><a href = "./members.html"> Members<br /></a></button>
-    <button class="btn btn-default" style = "font-size: 30px; background-color: yellow;"><a href = "./OSF.html"> Open Source Festival 2017 </a> <br/></button>
-    <button class="btn btn-default" style = "font-size: 30px;"><a href = "./workshops.html"> Workshops </a> <br/></button>
+    <a href = "./index.html"> <button id = "orange" class="btn btn-default"  style = "font-size: 30px; background-color: yellow; color:purple;" onmouseover = "edit(0);" onmouseleave = "reset(0);" >Home <br /></button></a>
+    <a href = "./members.html"><button id = "orange" class="btn btn-default" style = "font-size: 30px; color:purple;" onmouseover = "edit(1);" onmouseleave = "reset(1);"> Members<br /></button></a>
+    <a href = "./OSF.html"><button id = "orange" class="btn btn-default" style = "font-size: 30px; background-color: yellow; color:purple;" onmouseover = "edit(2);" onmouseleave = "reset(2);">Open Source Festival 2017  <br/></button></a>
+    <a href = "./workshops.html"><button id = "orange" class="btn btn-default" style = "font-size: 30px; color:purple;" onmouseover = "edit(3);" onmouseleave = "reset(3);"> Workshops <br/></button></a>
 </h2>
 </div>
 <h1 style= "font-size: 60px">  Members </h1>
@@ -60,5 +65,23 @@
     <br/>
     All images on this site were used from commons.wikimedia.org
 </div>
+
+<script>
+  // alert("The date to submit proposals has been extendded to Monday April, 3 for any additional invitations to be sent")
+
+  function edit(a) {
+    var change = document.getElementsByTagName("button")[a]
+    change.style.color = "orange";
+    change.style.textDecoration = "underline";
+
+  }
+  
+  function reset (a) {
+    var change = document.getElementsByTagName("button")[a]
+    change.style.color = "purple";
+    change.style.textDecoration = "none";
+    
+  }
+</script>
 </body>
 </html>
