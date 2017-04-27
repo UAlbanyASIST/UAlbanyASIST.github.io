@@ -1,0 +1,22 @@
+{
+  "name": "asist_website",
+  "version": "1.0.0",
+  "description": "This repository is for updates on the the Ualbany ASIS&T website  developers: Akeem Shane and Michael Odumosu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UAlbanyASIST/UAlbanyASIST.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UAlbanyASIST/UAlbanyASIST.github.io/issues"
+  },
+  "homepage": "https://ualbanyasist.github.io/",
+  "dependencies": {
+    "postcss-px-to-em": "^1.0.1"
+  }
+}

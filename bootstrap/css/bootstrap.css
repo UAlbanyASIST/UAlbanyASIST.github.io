@@ -12,6 +12,17 @@ html {
 }
 body {
   margin: 0;
+  
+    /*-ms-transform:scale(1);*/
+    /*-ms-transform-origin: 0 0;*/
+    /*-moz-transform: scale(.5);*/
+    /*-moz-transform-origin: 0 0;*/
+    /*-o-transform: scale(1);*/
+    /*-o-transform-origin: 0 0;*/
+    /*-webkit-transform: scale(1);*/
+    /*-webkit-transform-origin: 0 0;*/
+    /*transform: scale(.5);*/
+    /*transform-origin: 0 0;*/
 }
 article,
 aside,
@@ -1108,7 +1119,6 @@ th {
 }
 html {
   font-size: 10px;
-
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 body {
@@ -1117,7 +1127,6 @@ body {
   line-height: 1.42857143;
   color: #333;
   background-color: purple;
-  zoom: 50%;
 }
 input,
 button,
@@ -1336,7 +1345,7 @@ h2,
 
 #divexcept {
 	
-    width: 33%;
+    width: 31%;
     height: 500px;
 	text-align: center;
 	background-color: yellow;
