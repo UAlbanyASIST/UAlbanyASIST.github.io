@@ -1375,6 +1375,30 @@ h2,
 		float: center;
 		width: 500px
 	}
+	
+#img_except2 {
+	
+    width: 200px;
+    height:200px;
+	text-align: center;
+	background-color: white;
+	z-index:1;
+	border-radius:400px;
+    top: 275px;
+    right: 900px;
+    
+}
+
+#img_flip{
+    -moz-transform: scaleY(-1);
+    -o-transform: scaleY(-1);
+    -webkit-transform: scaleY(-1);
+    transform: scaleY(-1);
+    filter: FlipV;
+    -ms-filter: "FlipV";
+}
+
+
 h3,
 .h3 {
   font-size: 24px;
